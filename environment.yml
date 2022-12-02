@@ -1,0 +1,17 @@
+name: python-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pandas
+  - cartopy
+  - h5netcdf
+  - pyproj
+  - eccodes
+  - cython
+  - pygrib
+  - s3fs
+  - scipy
+  - xarray
