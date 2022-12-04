@@ -1,6 +1,6 @@
 # Python for Earth Sciences
 
-Instructor: [Rebekah Esmaili](http://www.rebekahesmaili.com)
+Instructor: [Rebekah Esmaili](http://www.rebekahesmaili.com), PhD
 
 ---
 
@@ -38,17 +38,8 @@ This workshop will cover:
 * Launch Jupyter Notebooks from the Anaconda Navigator. This will open a window in your default browser. Navigate to the folder that contains the notebooks (*.ipynb) and click on the tutorial for the day.
     * New to Jupyter? Here's a video tutorial on [YouTube](https://youtu.be/gmMCuR9JPpY).
 * Additional packages:
-  * Launch the Anaconda Prompt (Windows) or Terminal (MacOS/Linux). Then copy/paste and hit enter:
-
-    ```bash
-    conda install -c conda-forge cartopy
-    conda install -c conda-forge netCDF4
-    conda install -c conda-forge xarray
-    conda install -c conda-forge pygrib
-    ```
-
-  * If there are no errors, then you are set-up!
-  * Alternatively, if you are familiar with environments, you can use the environments.yml to install the necessary packages. You can do this in the terminal using:
+  * Launch the Anaconda Prompt (Windows) or Terminal (MacOS/Linux).
+  * Use the environments.yml to install the necessary packages. You can do this in the terminal using:
 
     ```bash
     conda env create -f environment.yml
@@ -59,6 +50,7 @@ This workshop will cover:
     ```bash
     conda activate python-workshop
     ```
+  * Note: The default environment is called 'base.' If you close the terminal, you will have to switch back to the environment using the above command again.
 
 I *do not* recommend:
 * Using Python on a remote server for this tutorial (I cannot help troubleshoot)
@@ -112,7 +104,6 @@ Beginner Tutorials
 * [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) Free eBook to enhance your workflow.
 
 Intermediate Tutorials
-* Last year's workshop, [Python for Earth Science with Rebekah](https://youtube.com/playlist?list=PLlcgQ3Rl-9fR4oOmfeKPKHuk2Lj57bNJy), is available online. I'll upload this one once available.
 * [Python for Climate and Meteorology](https://www.youtube.com/watch?v=uQZAEPnUZ5o) Another tutorial taught at AMS, a little more advanced.
 * Learn more about [Python for Atmosphere and Ocean Scientists](https://carpentries-lab.github.io/python-aos-lesson/) using Software Carpentry lesson plans.
 * [Earth Observation using Python](https://www.wiley.com/en-us/Earth+Observation+using+Python%3A+A+Practical+Programming+Guide-p-9781119606888) is a book I wrote that builds on the content of the workshop.
