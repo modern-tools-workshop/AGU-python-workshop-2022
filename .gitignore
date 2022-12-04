@@ -1,0 +1,5 @@
+
+.ipynb_checkpoints/*
+satnames.npz
+satellites.csv
+SRB.png

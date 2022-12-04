@@ -8,6 +8,8 @@ dependencies:
   - pandas
   - cartopy
   - h5netcdf
+  - netcdf4
+  - pydap
   - pyproj
   - eccodes
   - cython
