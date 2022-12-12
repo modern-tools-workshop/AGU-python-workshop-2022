@@ -104,6 +104,7 @@ Beginner Tutorials
 * [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) Free eBook to enhance your workflow.
 
 Intermediate Tutorials
+* [Project Pythia Foundations Online Textbook](https://foundations.projectpythia.org/landing-page.html) A community learning resource for Python-based computing in the geosciences. Highly recommended!
 * [Python for Climate and Meteorology](https://www.youtube.com/watch?v=uQZAEPnUZ5o) Another tutorial taught at AMS, a little more advanced.
 * Learn more about [Python for Atmosphere and Ocean Scientists](https://carpentries-lab.github.io/python-aos-lesson/) using Software Carpentry lesson plans.
 * [Earth Observation using Python](https://www.wiley.com/en-us/Earth+Observation+using+Python%3A+A+Practical+Programming+Guide-p-9781119606888) is a book I wrote that builds on the content of the workshop.
